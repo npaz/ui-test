@@ -1,2 +1,3 @@
+include ':ui-test-lib'
 include ':app'
 rootProject.name = "UiTest"
